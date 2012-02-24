@@ -1,3 +1,6 @@
+This is my first edit to the README for my blog application. Wish me good luck!
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
